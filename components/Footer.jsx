@@ -8,7 +8,7 @@ const Footer = () => {
   
   return (
     <div className='footer-container'>
-      <p> {`${date} JSM Headphones All Rights Rserved`}</p>
+      <p> {`${date} Rare Finds Leather Bags All Rights Rserved`}</p>
       <p className='icons'>
         <a href='https://www.instagram.com/?hl=en' target='_blank'><AiFillInstagram /></a>
         <a href='https://twitter.com/?lang=en' target= '_blank'><AiOutlineTwitter /></a>
